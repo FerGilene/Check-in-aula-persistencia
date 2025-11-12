@@ -1,0 +1,22 @@
+Ana Pérez | 51234567 | Prog 2 | 2025-11-06T09:15:32.845697
+Luis Gómez | 49887766 | Prog 1 | 2025-11-06T09:15:32.861284
+Camila Díaz | 53422110 | Base de Datos | 2025-11-06T09:15:32.861377
+Martín Silva | 50233455 | Prog 1 | 2025-11-06T09:17:21.102349
+Julieta Ramos | 52398744 | Prog 3 | 2025-11-06T09:17:21.112982
+Fernando López | 48999888 | Redes | 2025-11-06T09:17:21.115603
+Paula Fernández | 49888002 | Base de Datos | 2025-11-06T09:17:21.117112
+Nicolás García | 50111222 | Prog 2 | 2025-11-06T09:17:21.118330
+Valentina Castro | 53444555 | Prog 1 | 2025-11-06T09:17:21.119881
+Diego Cabrera | 51123999 | Redes | 2025-11-06T09:17:21.121008
+Lucía Torres | 49001122 | Prog 2 | 2025-11-06T09:17:21.122347
+Rodrigo Viera | 52333344 | Prog 3 | 2025-11-06T09:17:21.123555
+Carolina Suárez | 48766543 | Base de Datos | 2025-11-06T09:17:21.124889
+Sofía Hernández | 50789999 | Prog 1 | 2025-11-06T09:17:21.126001
+Gabriel Méndez | 51222444 | Redes | 2025-11-06T09:17:21.127321
+Laura Pereyra | 49677889 | Prog 3 | 2025-11-06T09:17:21.128457
+Emiliano Rodríguez | 50033445 | Prog 2 | 2025-11-06T09:17:21.129772
+Verónica Cabrera | 49322110 | Base de Datos | 2025-11-06T09:17:21.131093
+Agustín Morales | 52111999 | Prog 1 | 2025-11-06T09:17:21.132202
+Cecilia Gómez | 53000999 | Redes | 2025-11-06T09:17:21.133409
+Santiago Marquez | 1234567 | Ninguno | 2025-11-06T09:24:58.921240200
+Maria | Perez | BBDD 2 | 2025-11-06T09:31:25.410906500
